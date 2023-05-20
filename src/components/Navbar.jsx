@@ -338,7 +338,7 @@ export default function Navbar() {
             <button class="btn btn-primary btn-sm my-sm-0" type="submit"><i className="fa fa-comment"></i></button>
             <button class="btn btn-primary btn-sm my-sm-0" type="submit"><i className="fa fa-video"></i></button>
             <button className="share">🔒 Share</button>
-            <img className="mr-3" src="profile.png" style={{ borderRadius: "50px" }} width="40" height="40" alt="my-profile"></img>
+            <img className="mr-3" src="./src/assets/profile.png" style={{ borderRadius: "50px" }} width="40" height="40" alt="my-profile"></img>
           </div>
         </div>
       </nav>

@@ -21,7 +21,7 @@ export default function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand" href="#">
-          <img src="./src/assets/docs.png" width="25" height="40" alt="logo" />
+          <img src="/assets/images/docs.png" width="25" height="40" alt="logo" />
         </a>
         <div>
           <div>
@@ -338,7 +338,7 @@ export default function Navbar() {
             <button class="btn btn-primary btn-sm my-sm-0" type="submit"><i className="fa fa-comment"></i></button>
             <button class="btn btn-primary btn-sm my-sm-0" type="submit"><i className="fa fa-video"></i></button>
             <button className="share">🔒 Share</button>
-            <img className="mr-3" src="./src/assets/profile.png" style={{ borderRadius: "50px" }} width="40" height="40" alt="my-profile"></img>
+            <img className="mr-3" src="/assets/images/profile.png" style={{ borderRadius: "50px" }} width="40" height="40" alt="my-profile"></img>
           </div>
         </div>
       </nav>
